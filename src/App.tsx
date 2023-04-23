@@ -15,7 +15,8 @@ export default function App() {
   const dispatch = useAppDispatch()
 
   return (
-    <div className="flex flex-col h-screen justify-center items-center gap-4">
+    <div className="flex flex-col h-screen justify-center items-center gap-4"> 
+    123
       <div className="flex items-center gap-2">
         Count is <span className="text-3xl">{counter}</span>
       </div>
